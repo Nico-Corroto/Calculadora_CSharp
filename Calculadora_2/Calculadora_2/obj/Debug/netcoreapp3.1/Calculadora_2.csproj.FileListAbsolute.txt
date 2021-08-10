@@ -1,0 +1,15 @@
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.exe
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.deps.json
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.runtimeconfig.json
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.runtimeconfig.dev.json
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.dll
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\bin\Debug\netcoreapp3.1\Calculadora_2.pdb
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.csprojAssemblyReference.cache
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.Form1.resources
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.csproj.GenerateResource.cache
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.AssemblyInfoInputs.cache
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.AssemblyInfo.cs
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.csproj.CoreCompileInputs.cache
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.dll
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.pdb
+C:\Users\Corroto\source\repos\Calculadora_2\Calculadora_2\obj\Debug\netcoreapp3.1\Calculadora_2.genruntimeconfig.cache
